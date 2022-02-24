@@ -1,0 +1,9 @@
+com/example/todoapplication/service/FoldersService.class
+com/example/todoapplication/model/Folder.class
+com/example/todoapplication/service/ToDoService.class
+com/example/todoapplication/model/Item.class
+com/example/todoapplication/repository/ToDoRepository.class
+com/example/todoapplication/repository/FoldersRepository.class
+com/example/todoapplication/controller/FoldersController.class
+com/example/todoapplication/ToDoApplication.class
+com/example/todoapplication/controller/ToDoController.class
